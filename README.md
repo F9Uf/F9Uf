@@ -17,7 +17,7 @@ I'm Charnsak Dangmanee (Tose).
 
 ![HTML](https://img.shields.io/badge/-HTML-orange?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-3799d6?style=flat&logo=css3&logoColor=white)
-![Javascript](https://img.shields.io/badge/-Javascript-yellow?style=flat&logo=node.js&logoColor=white)
+![Javascript](https://img.shields.io/badge/-Javascript-yellow?style=flat&logo=javascript&logoColor=white)
 ![Typescript](https://img.shields.io/badge/-Typescript-007acc?style=flat&logo=typescript&logoColor=white)
 ![Go](https://img.shields.io/badge/-Go-6ad7e5?style=flat&logo=go&logoColor=white)
 
