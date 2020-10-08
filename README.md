@@ -8,7 +8,7 @@ I'm Charnsak Dangmanee (Tose).
 - 🌱 I’m currently learning container technology, software development process and Devops
 
 [![Linkedin Badge](https://img.shields.io/badge/-f9uf-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/f9uf/)](https://www.linkedin.com/in/f9uf/)
-[![Gmail Badge](https://img.shields.io/badge/-atoseka-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:atoseka@gmail.com)](mailto:atoseka@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-charnsak.dangmanee-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:charnsak.dangmanee@gmail.com)](mailto:charnsak.dangmanee@gmail.com)
 [![Github Badge](https://img.shields.io/badge/-@F9Uf-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/F9Uf)](https://github.com/F9Uf)
 
 #### I work with
